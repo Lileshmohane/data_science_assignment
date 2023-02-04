@@ -1,1 +1,19 @@
+1. who developed python programming language ?
+ANS = Guido van Rossum
 
+2. which type of programming does python support?
+ANS = python support such as data structure design and object-oriented programming,
+and encourages programmers to write readable (and thus maintainable) code by providing an elegant
+
+3.is python case sensitive  when dealing with identifiers ?
+ANS = yes  python is  case sensitive  when dealing with identifiers
+
+4.what is the correct extension of the python file ?
+ANS = .py
+5. is python code compiled or interpreted ?
+ANS =  python language is interpreted. 
+But that is half correct the python program is first compiled and then interpreted.
+
+6. name a five block of code using to define in python language  ?
+ANS =
+in python functions ,indentation is a block  of code 
