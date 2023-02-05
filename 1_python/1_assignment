@@ -1,19 +1,108 @@
 1. who developed python programming language ?
+
 ANS = Guido van Rossum
 
 2. which type of programming does python support?
+
 ANS = python support such as data structure design and object-oriented programming,
 and encourages programmers to write readable (and thus maintainable) code by providing an elegant
 
 3.is python case sensitive  when dealing with identifiers ?
+
 ANS = yes  python is  case sensitive  when dealing with identifiers
 
 4.what is the correct extension of the python file ?
+
 ANS = .py
 5. is python code compiled or interpreted ?
+
 ANS =  python language is interpreted. 
-But that is half correct the python program is first compiled and then interpreted.
+       But that is half correct the python program is first compiled and then interpreted.
 
 6. name a five block of code using to define in python language  ?
-ANS =
-in python functions ,indentation is a block  of code 
+
+ANS = 1 If-else statement: used to perform different actions based on different conditions.
+       code 
+    if condition:
+   # do something
+else:
+   # do something else
+    
+    2 For loop: used to iterate over a sequence (such as a list, tuple, or string) and execute a block of code for each item in the sequence.
+       code 
+       for item in sequence:
+   # do something with item
+   
+   3 While loop: used to repeatedly execute a block of code while a certain condition is true.
+   code 
+   while condition:
+   # do something
+   4 Function definition: used to define a reusable block of code that can be called from multiple places in your program.
+    code
+    def function_name(arguments):
+   # do something
+   return result
+  5 Class definition: used to define a blueprint for creating objects (i.e., instances of a class).
+   code
+   class ClassName:
+   # class attributes and methods
+
+       
+       
+7. state a character  used  to give single- line comments  in python ?
+
+ANS =  # print the value We can also use the single-line comment along with the code.
+
+8. mention  function  which can help us to find the version of python that we can currently working on?
+
+ANS =  Sys.version
+
+9. python support the creation of anonymous function at runtime  using a construct called ?
+
+ANS = Lambda
+10. what does pip stand for python ?
+
+ANS = Python pip uninstall command uninstalls a particular existing package.
+
+11. mention  a few built-in function in python ?
+ANS =   1 abs()
+        2 any()
+        3 bin()
+        4 bool()
+        5 byte()
+12. what is the maximum possible length of an identifier in python ?
+
+ANS =   When writing code using an identifier in Python we can only use a maximum of 79 characters
+
+13. what are the benefits of using python ?
+ANS =  1 Presence of Libraries
+       2 Open Source and free
+       3 Huge Support Community
+       4 Easy to learn
+       5 User-Friendly data structures
+       6 Speed 
+       7 Third-Party Modules
+       
+14. what is memory managed in python  ?
+ANS = Memory management in Python refers to the process of managing the amount of memory used by the program during its execution. 
+In Python, memory management is done automatically using a garbage collector that collects and frees up memory that is no longer being used by the program.
+The memory management system in Python is responsible for allocating memory for new objects, reclaiming memory that is no longer being used
+and organizing memory to optimize memory usage and performance.
+
+15. how to install python on windows and set path  variable  ?
+
+ANS =  1 Download the latest version of Python from the official website (https://www.python.org/downloads/windows/).
+       2 Run the installer and follow the instructions to complete the installation process.
+       3 To set the path variable, follow these steps:
+       a. Open the Start menu, search for "Environment Variables" and click on "Edit the system environment variables".
+       b. Click on the "Environment Variables" button.
+       c. Scroll down to the "System Variables" section, find the "Path" variable and click on "Edit".
+       d. Click on "New" and add the location of your Python installation, for example: "C:\Python36".
+      e. Click "OK" to close all the windows.
+      After setting the path variable, you can open the command prompt and run Python by typing "python".
+
+16. is indentation required in python  ?
+ANS =  Yes, indentation is required in Python. It is used to define blocks of code, 
+       such as functions, loops, and conditional statements. In Python
+
+
